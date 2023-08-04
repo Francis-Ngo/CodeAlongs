@@ -144,7 +144,8 @@ for (let i=0; i<myString.length; i++) {
     }
 }
 
-console.log(total)
+console.log(total);
 
 console.log(total);
 
+//git
